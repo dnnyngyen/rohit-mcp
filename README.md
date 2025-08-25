@@ -1,6 +1,4 @@
-![Rohit MCP in action](rohit.png)
-
-# Rohit MCP
+![Rohit MCP in action](rohit.png) # Rohit MCP
 
 A super simple MCP (Model Context Protocol) server that demonstrates how easy it is to create custom tools in less than 30 lines of code.
 
