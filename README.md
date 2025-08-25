@@ -1,4 +1,4 @@
-![Rohit MCP in action](Screenshot%202025-08-24%20at%2010.00.54%20PM.png)
+![Rohit MCP in action](rohit.png)
 
 # Rohit MCP
 
