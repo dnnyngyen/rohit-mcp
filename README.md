@@ -1,3 +1,5 @@
+![Rohit MCP in action](Screenshot%202025-08-24%20at%2010.00.54%20PM.png)
+
 # Rohit MCP
 
 A super simple MCP (Model Context Protocol) server that demonstrates how easy it is to create custom tools in less than 30 lines of code.
