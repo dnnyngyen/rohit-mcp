@@ -21,3 +21,18 @@ pip install -r requirements.txt
 python rohit_mcp.py
 ```
 
+## Setup for any MCP client
+
+Add this to your MCP client configuration (e.g., `~/.cursor/mcp.json` for Cursor):
+
+```json
+{
+  "rohit": {
+    "command": "python3",
+    "args": ["/path/to/rohit_mcp/rohit_mcp.py"],
+    "env": {}
+  }
+}
+```
+
+Replace `/path/to/rohit_mcp/` with the actual path to this repository on your system.
